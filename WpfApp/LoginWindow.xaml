@@ -1,0 +1,17 @@
+﻿<Window x:Class="WpfApp.LoginWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp"
+        mc:Ignorable="d"
+        Title="LoginWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="帳號:"  HorizontalAlignment="Center" VerticalAlignment="Center" Margin="-200 -30 0 0"/>
+        <TextBlock x:Name="AC" HorizontalAlignment="Center" VerticalAlignment="Center" Width="150" Height="30" Margin="0 -30 0 0"/>
+        <Label Content="密碼:"  HorizontalAlignment="Center" VerticalAlignment="Center" Margin="-200 50 0 0"/>
+        <TextBlock x:Name="PW" HorizontalAlignment="Center" VerticalAlignment="Center" Width="150" Height="30" Margin="0 50 0 0"/>
+        <TextBlock  HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0 150 0 0"><Hyperlink  Click="Hyperlink_Click" >註冊</Hyperlink></TextBlock>
+        
+    </Grid>
+</Window>

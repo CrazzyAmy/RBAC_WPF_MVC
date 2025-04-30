@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\RBAC_WPF\\RBAC_WPF_MVC\\AppPresentation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE75881E-ABA9-44E9-8BFD-160046C975B4}|..\\DataAccessLibrary\\DataAccessLibrary.csproj|c:\\users\\user\\source\\repos\\rbac_wpf\\rbac_wpf_mvc\\dataaccesslibrary\\repository\\memberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F678BF3-98D1-4114-AE0A-1AAC884BC71D}|..\\BusinessLibrary\\BusinessLibrary.csproj|c:\\users\\user\\source\\repos\\rbac_wpf\\rbac_wpf_mvc\\businesslibrary\\service\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F8E78B-09EB-4CAA-BE6A-3480EA309F00}|..\\WpfApp\\WpfApp.csproj|c:\\users\\user\\source\\repos\\rbac_wpf\\rbac_wpf_mvc\\wpfapp\\registratorwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F8E78B-09EB-4CAA-BE6A-3480EA309F00}|..\\WpfApp\\WpfApp.csproj|c:\\users\\user\\source\\repos\\rbac_wpf\\rbac_wpf_mvc\\wpfapp\\registratorwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE75881E-ABA9-44E9-8BFD-160046C975B4}|..\\DataAccessLibrary\\DataAccessLibrary.csproj|c:\\users\\user\\source\\repos\\rbac_wpf\\rbac_wpf_mvc\\dataaccesslibrary\\datamodel\\memberdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F8E78B-09EB-4CAA-BE6A-3480EA309F00}|..\\WpfApp\\WpfApp.csproj|c:\\users\\user\\source\\repos\\rbac_wpf\\rbac_wpf_mvc\\wpfapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 305,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegistratorWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\RBAC_WPF\\RBAC_WPF_MVC\\WpfApp\\RegistratorWindow.xaml.cs",
+              "RelativeDocumentMoniker": "..\\WpfApp\\RegistratorWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\RBAC_WPF\\RBAC_WPF_MVC\\WpfApp\\RegistratorWindow.xaml.cs",
+              "RelativeToolTip": "..\\WpfApp\\RegistratorWindow.xaml.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACMAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T04:05:24.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegistratorWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\RBAC_WPF\\RBAC_WPF_MVC\\WpfApp\\RegistratorWindow.xaml",
+              "RelativeDocumentMoniker": "..\\WpfApp\\RegistratorWindow.xaml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\RBAC_WPF\\RBAC_WPF_MVC\\WpfApp\\RegistratorWindow.xaml",
+              "RelativeToolTip": "..\\WpfApp\\RegistratorWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-28T04:05:22.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MemberData.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\RBAC_WPF\\RBAC_WPF_MVC\\DataAccessLibrary\\DataModel\\MemberData.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLibrary\\DataModel\\MemberData.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\RBAC_WPF\\RBAC_WPF_MVC\\DataAccessLibrary\\DataModel\\MemberData.cs",
+              "RelativeToolTip": "..\\DataAccessLibrary\\DataModel\\MemberData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T01:49:48.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MemberRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\RBAC_WPF\\RBAC_WPF_MVC\\DataAccessLibrary\\Repository\\MemberRepository.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLibrary\\Repository\\MemberRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\RBAC_WPF\\RBAC_WPF_MVC\\DataAccessLibrary\\Repository\\MemberRepository.cs",
+              "RelativeToolTip": "..\\DataAccessLibrary\\Repository\\MemberRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T09:47:12.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\RBAC_WPF\\RBAC_WPF_MVC\\WpfApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "..\\WpfApp\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\RBAC_WPF\\RBAC_WPF_MVC\\WpfApp\\App.xaml.cs",
+              "RelativeToolTip": "..\\WpfApp\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T09:42:46.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MemberService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\RBAC_WPF\\RBAC_WPF_MVC\\BusinessLibrary\\Service\\MemberService.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLibrary\\Service\\MemberService.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\RBAC_WPF\\RBAC_WPF_MVC\\BusinessLibrary\\Service\\MemberService.cs",
+              "RelativeToolTip": "..\\BusinessLibrary\\Service\\MemberService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T08:13:36.302Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
