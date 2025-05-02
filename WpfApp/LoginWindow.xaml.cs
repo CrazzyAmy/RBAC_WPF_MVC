@@ -1,4 +1,5 @@
-﻿using System;
+﻿using DataAccessLibrary.Repository;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -19,15 +20,32 @@ namespace WpfApp
     /// </summary>
     public partial class LoginWindow : Window
     {
+        private readonly string _dbConnStr;
         public LoginWindow()
         {
             InitializeComponent();
+            _dbConnStr = ((App)Application.Current).DbConnStr;
         }
 
         private void Hyperlink_Click(object sender, RoutedEventArgs e)
         {
             RegistratorWindow w = new RegistratorWindow();
             w.Show();
+        }
+
+        private void Send_Button_Click(object sender, RoutedEventArgs e)
+        {
+            MemberRepository mr = new MemberRepository(_dbConnStr);
+            string result = mr.IdentifyLogin(this.AC.Text, this.PW.Password);
+            if (result == "Success")
+            {
+                MainWindow mainWindow = new MainWindow();
+                mainWindow.Show();
+            }
+            else
+            {
+                MessageBox.Show("帳號或密碼錯誤");
+            }
         }
     }
 }

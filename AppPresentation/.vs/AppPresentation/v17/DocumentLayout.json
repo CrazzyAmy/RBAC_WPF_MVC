@@ -3,10 +3,25 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\RBAC_WPF\\RBAC_WPF_MVC\\AppPresentation\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A5F8E78B-09EB-4CAA-BE6A-3480EA309F00}|..\\WpfApp\\WpfApp.csproj|c:\\users\\user\\source\\repos\\rbac_wpf\\rbac_wpf_mvc\\wpfapp\\productlistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F8E78B-09EB-4CAA-BE6A-3480EA309F00}|..\\WpfApp\\WpfApp.csproj|c:\\users\\user\\source\\repos\\rbac_wpf\\rbac_wpf_mvc\\wpfapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F8E78B-09EB-4CAA-BE6A-3480EA309F00}|..\\WpfApp\\WpfApp.csproj|c:\\users\\user\\source\\repos\\rbac_wpf\\rbac_wpf_mvc\\wpfapp\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F8E78B-09EB-4CAA-BE6A-3480EA309F00}|..\\WpfApp\\WpfApp.csproj|c:\\users\\user\\source\\repos\\rbac_wpf\\rbac_wpf_mvc\\wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F8E78B-09EB-4CAA-BE6A-3480EA309F00}|..\\WpfApp\\WpfApp.csproj|c:\\users\\user\\source\\repos\\rbac_wpf\\rbac_wpf_mvc\\wpfapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FE75881E-ABA9-44E9-8BFD-160046C975B4}|..\\DataAccessLibrary\\DataAccessLibrary.csproj|c:\\users\\user\\source\\repos\\rbac_wpf\\rbac_wpf_mvc\\dataaccesslibrary\\repository\\memberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F678BF3-98D1-4114-AE0A-1AAC884BC71D}|..\\BusinessLibrary\\BusinessLibrary.csproj|c:\\users\\user\\source\\repos\\rbac_wpf\\rbac_wpf_mvc\\businesslibrary\\service\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A5F8E78B-09EB-4CAA-BE6A-3480EA309F00}|..\\WpfApp\\WpfApp.csproj|c:\\users\\user\\source\\repos\\rbac_wpf\\rbac_wpf_mvc\\wpfapp\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A5F8E78B-09EB-4CAA-BE6A-3480EA309F00}|..\\WpfApp\\WpfApp.csproj|c:\\users\\user\\source\\repos\\rbac_wpf\\rbac_wpf_mvc\\wpfapp\\registratorwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -15,10 +30,16 @@
       "AbsoluteMoniker": "D:0:0:{A5F8E78B-09EB-4CAA-BE6A-3480EA309F00}|..\\WpfApp\\WpfApp.csproj|c:\\users\\user\\source\\repos\\rbac_wpf\\rbac_wpf_mvc\\wpfapp\\registratorwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE75881E-ABA9-44E9-8BFD-160046C975B4}|..\\DataAccessLibrary\\DataAccessLibrary.csproj|c:\\users\\user\\source\\repos\\rbac_wpf\\rbac_wpf_mvc\\dataaccesslibrary\\datamodel\\memberdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A5F8E78B-09EB-4CAA-BE6A-3480EA309F00}|..\\WpfApp\\WpfApp.csproj|c:\\users\\user\\source\\repos\\rbac_wpf\\rbac_wpf_mvc\\wpfapp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A5F8E78B-09EB-4CAA-BE6A-3480EA309F00}|..\\WpfApp\\WpfApp.csproj|c:\\users\\user\\source\\repos\\rbac_wpf\\rbac_wpf_mvc\\wpfapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE75881E-ABA9-44E9-8BFD-160046C975B4}|..\\DataAccessLibrary\\DataAccessLibrary.csproj|c:\\users\\user\\source\\repos\\rbac_wpf\\rbac_wpf_mvc\\dataaccesslibrary\\datamodel\\memberdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F678BF3-98D1-4114-AE0A-1AAC884BC71D}|..\\BusinessLibrary\\BusinessLibrary.csproj|c:\\users\\user\\source\\repos\\rbac_wpf\\rbac_wpf_mvc\\businesslibrary\\service\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,34 +49,136 @@
       "DocumentGroups": [
         {
           "DockedWidth": 305,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\RBAC_WPF\\RBAC_WPF_MVC\\WpfApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "..\\WpfApp\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\RBAC_WPF\\RBAC_WPF_MVC\\WpfApp\\MainWindow.xaml",
+              "RelativeToolTip": "..\\WpfApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-30T14:24:57.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\RBAC_WPF\\RBAC_WPF_MVC\\WpfApp\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "..\\WpfApp\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\RBAC_WPF\\RBAC_WPF_MVC\\WpfApp\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "..\\WpfApp\\LoginWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T03:26:16.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\RBAC_WPF\\RBAC_WPF_MVC\\WpfApp\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "..\\WpfApp\\LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\RBAC_WPF\\RBAC_WPF_MVC\\WpfApp\\LoginWindow.xaml",
+              "RelativeToolTip": "..\\WpfApp\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-30T14:49:28.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\RBAC_WPF\\RBAC_WPF_MVC\\WpfApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "..\\WpfApp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\RBAC_WPF\\RBAC_WPF_MVC\\WpfApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "..\\WpfApp\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAQwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T14:24:52.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\RBAC_WPF\\RBAC_WPF_MVC\\WpfApp\\App.xaml",
+              "RelativeDocumentMoniker": "..\\WpfApp\\App.xaml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\RBAC_WPF\\RBAC_WPF_MVC\\WpfApp\\App.xaml",
+              "RelativeToolTip": "..\\WpfApp\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-30T14:25:59.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductListPage.xaml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\RBAC_WPF\\RBAC_WPF_MVC\\WpfApp\\ProductListPage.xaml",
+              "RelativeDocumentMoniker": "..\\WpfApp\\ProductListPage.xaml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\RBAC_WPF\\RBAC_WPF_MVC\\WpfApp\\ProductListPage.xaml",
+              "RelativeToolTip": "..\\WpfApp\\ProductListPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-02T07:14:16.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "RegistratorWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\RBAC_WPF\\RBAC_WPF_MVC\\WpfApp\\RegistratorWindow.xaml.cs",
               "RelativeDocumentMoniker": "..\\WpfApp\\RegistratorWindow.xaml.cs",
               "ToolTip": "C:\\Users\\USER\\source\\repos\\RBAC_WPF\\RBAC_WPF_MVC\\WpfApp\\RegistratorWindow.xaml.cs",
               "RelativeToolTip": "..\\WpfApp\\RegistratorWindow.xaml.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAACMAAAA+AAAA",
+              "ViewState": "AQIAACkAAAAAAAAAAAAIwB0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T04:05:24.935Z"
+              "WhenOpened": "2025-04-28T04:05:24.935Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
+              "Title": "MemberRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\RBAC_WPF\\RBAC_WPF_MVC\\DataAccessLibrary\\Repository\\MemberRepository.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLibrary\\Repository\\MemberRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\RBAC_WPF\\RBAC_WPF_MVC\\DataAccessLibrary\\Repository\\MemberRepository.cs",
+              "RelativeToolTip": "..\\DataAccessLibrary\\Repository\\MemberRepository.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAApwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T09:47:12.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "RegistratorWindow.xaml",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\RBAC_WPF\\RBAC_WPF_MVC\\WpfApp\\RegistratorWindow.xaml",
               "RelativeDocumentMoniker": "..\\WpfApp\\RegistratorWindow.xaml",
               "ToolTip": "C:\\Users\\USER\\source\\repos\\RBAC_WPF\\RBAC_WPF_MVC\\WpfApp\\RegistratorWindow.xaml",
               "RelativeToolTip": "..\\WpfApp\\RegistratorWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-28T04:05:22.366Z"
+              "WhenOpened": "2025-04-28T04:05:22.366Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\RBAC_WPF\\RBAC_WPF_MVC\\WpfApp\\App.config",
+              "RelativeDocumentMoniker": "..\\WpfApp\\App.config",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\RBAC_WPF\\RBAC_WPF_MVC\\WpfApp\\App.config",
+              "RelativeToolTip": "..\\WpfApp\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAB2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-30T17:32:30.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "MemberData.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\RBAC_WPF\\RBAC_WPF_MVC\\DataAccessLibrary\\DataModel\\MemberData.cs",
               "RelativeDocumentMoniker": "..\\DataAccessLibrary\\DataModel\\MemberData.cs",
@@ -67,32 +190,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MemberRepository.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\RBAC_WPF\\RBAC_WPF_MVC\\DataAccessLibrary\\Repository\\MemberRepository.cs",
-              "RelativeDocumentMoniker": "..\\DataAccessLibrary\\Repository\\MemberRepository.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\RBAC_WPF\\RBAC_WPF_MVC\\DataAccessLibrary\\Repository\\MemberRepository.cs",
-              "RelativeToolTip": "..\\DataAccessLibrary\\Repository\\MemberRepository.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T09:47:12.541Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\RBAC_WPF\\RBAC_WPF_MVC\\WpfApp\\App.xaml.cs",
               "RelativeDocumentMoniker": "..\\WpfApp\\App.xaml.cs",
               "ToolTip": "C:\\Users\\USER\\source\\repos\\RBAC_WPF\\RBAC_WPF_MVC\\WpfApp\\App.xaml.cs",
               "RelativeToolTip": "..\\WpfApp\\App.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABNAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAABNAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T09:42:46.801Z"
+              "WhenOpened": "2025-04-25T09:42:46.801Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 12,
               "Title": "MemberService.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\RBAC_WPF\\RBAC_WPF_MVC\\BusinessLibrary\\Service\\MemberService.cs",
               "RelativeDocumentMoniker": "..\\BusinessLibrary\\Service\\MemberService.cs",

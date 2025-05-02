@@ -21,22 +21,51 @@ namespace WpfApp
     /// </summary>
     public partial class RegistratorWindow : Window
     {
+        private readonly string _dbConnStr;
         public RegistratorWindow()
         {
             InitializeComponent();
+            _dbConnStr = ((App)Application.Current).DbConnStr;
         }
 
         private void Send_Button_Click(object sender, RoutedEventArgs e)
         {
-            if (AC.Text == null || PW.Text == null)
+            if (this.AC.Text == null || this.PW.Password == null)
             {
                 MessageBox.Show("帳號或密碼為空，請輸入帳號或密碼", "Error",MessageBoxButton.OK);
             }else
             {
-                string t = DataAccessLibrary.Repository.MemberRepository.IdentifyAccExitOrNot(AC.Text,PW.Text);
+                MemberRepository mr = new MemberRepository(_dbConnStr);
+                string t = mr.IdentifyAccExitOrNot(this.AC.Text,this.PW.Password);
+                if(t == "Had")
+                {
+                    MessageBox.Show("帳號已存在");
+                }
+                else
+                {
+                    if (this.RPW.Password != null)
+                    {
+                        if (this.PW.Password == this.RPW.Password)
+                        {
+                            mr.Registrator(this.AC.Text, this.PW.Password);
+                            MessageBox.Show("註冊成功");
+                            MainWindow win2 = new MainWindow();
+                            win2.Show();
+                        }
+                        else
+                        {
+                            MessageBox.Show("密碼不一致");
+                        }
+                        
+                    }
+                }
             }
         }
 
-        
+        private void Hyperlink_Click(object sender, RoutedEventArgs e)
+        {
+            LoginWindow lw = new LoginWindow();
+            lw.Show();
+        }
     }
 }

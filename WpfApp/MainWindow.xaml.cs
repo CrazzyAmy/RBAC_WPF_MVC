@@ -24,5 +24,20 @@ namespace WpfApp
         {
             InitializeComponent();
         }
+
+        private void AdminFun_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void CustomerFun_Click(object sender, RoutedEventArgs e)
+        {
+            
+        }
+
+        private void ProductListFun_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }

@@ -7,10 +7,19 @@
         mc:Ignorable="d"
         Title="RegistratorWindow" Height="450" Width="800">
     <Grid>
-        <Label Content="帳號:"  HorizontalAlignment="Center" VerticalAlignment="Center" Margin="-200 -30 0 0"/>
-        <TextBlock x:Name="AC" HorizontalAlignment="Center" VerticalAlignment="Center" Width="150" Height="30" Margin="0 -30 0 0"/>
-        <Label Content="密碼:"  HorizontalAlignment="Center" VerticalAlignment="Center" Margin="-200 50 0 0"/>
-        <TextBlock x:Name="PW" HorizontalAlignment="Center" VerticalAlignment="Center" Width="150" Height="30" Margin="0 50 0 0"/>
+        <Label Content="帳號:"  HorizontalAlignment="Center" VerticalAlignment="Center" Margin="-200 -110 0 0"/>
+        <Border CornerRadius="5" Background="White" Margin="50 -110 0 0" BorderBrush="Gray" BorderThickness="1" Width="150" Height="30">
+            <TextBox x:Name="AC" HorizontalAlignment="Center" VerticalAlignment="Center" Width="150" Height="30"/>
+        </Border>
+        <Label Content="密碼:"  HorizontalAlignment="Center" VerticalAlignment="Center" Margin="-200 -30 0 0"/>
+        <Border CornerRadius="5" Background="White"  Margin="50 -30 0 0" BorderBrush="Gray" BorderThickness="1" Width="150" Height="30">
+            <PasswordBox x:Name="PW" HorizontalAlignment="Center" VerticalAlignment="Center" Width="150" Height="30"/>
+        </Border>
+        <Label Content="再次輸入密碼:"  HorizontalAlignment="Center" VerticalAlignment="Center" Margin="-200 50 0 0"/>
+        <Border CornerRadius="5" Background="White" Margin="50 50 0 0" BorderBrush="Gray" BorderThickness="1" Width="150" Height="30">
+            <PasswordBox x:Name="RPW" HorizontalAlignment="Center" VerticalAlignment="Center" Width="150" Height="30"/>
+        </Border>
+        <TextBlock  HorizontalAlignment="Center" VerticalAlignment="Center" Margin="200 150 0 0"><Hyperlink  Click="Hyperlink_Click" >登入</Hyperlink></TextBlock>
         <Button HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0 150 0 0" Width="100" Height="20" Content="送出" Click="Send_Button_Click"></Button>
     </Grid>
 </Window>
